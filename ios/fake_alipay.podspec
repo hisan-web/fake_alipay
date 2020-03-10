@@ -17,7 +17,7 @@ A new Flutter plugin.
   s.dependency 'Flutter'
   # 支付宝
   s.static_framework = true
-  s.dependency 'AlipaySDK-iOS', '~> 15.7.4'
+  s.dependency 'AlipaySDK-iOS'
 
   s.ios.deployment_target = '8.0'
 end
